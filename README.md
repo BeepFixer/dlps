@@ -124,7 +124,7 @@ Whether you like AI or hate it, I honestly don't mind either way. For me, this w
 
 And if anyone involved with DLPS happens to be reading this, I genuinely appreciate the work you've put into the site, and I hope you take no offence at me releasing this little utility.
 
-As a user, it's frustrating to browse through older pages, encounter dead links and then see countless Reddit posts along the lines of "it doesn't work". At the same time, I completely understand that nobody in their right mind would want to manually revisit thousands of old pages just to update outdated links. This little project felt like a reasonable workaround — a bit of a band-aid, perhaps, but surely better than being another person moaning about dead links on Reddit.
+As a user, it's frustrating to browse through older pages, encounter dead links and then see countless Reddit posts along the lines of "it doesn't work". At the same time, I completely understand that nobody in their right mind would want to manually revisit thousands of old pages just to update outdated links. This little project felt like a reasonable workaround - a bit of a band-aid, perhaps, but surely better than being another person moaning about dead links on Reddit.
 
 I'm also not planning to update PlunderSkip if the way links are presented or accessed on DLPS changes in the future. It was built around the older page structures, and that's where it'll stay.
 
