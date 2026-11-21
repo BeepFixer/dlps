@@ -89,7 +89,7 @@ Once installation is complete, Python is ready to go.
 
 ### 2. Download PlunderSkip
 
-Download the latest `PlunderSkip.py` file from the [Releases](https://github.com/beepfixer/dlps/releases) section of this repository and save it somewhere convenient on your computer.
+Download the latest `dead_link_plunder_skip_v01.00.py` file from the [Releases](https://github.com/beepfixer/dlps/releases) section of this repository and save it somewhere convenient on your computer.
 
 ### 3. Install the required packages
 
