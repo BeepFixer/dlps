@@ -67,6 +67,14 @@ The following are required for the initial setup. Once installed, there's no nee
 - Beautiful Soup 4
 - Tkinter (usually included with standard Python installations)
 
+**Settings file**
+
+When you use PlunderSkip, it automatically creates a `deadlink_plunder_skip_settings.json` file in the same folder as the application. This file stores your preferred settings, such as column visibility and order, so they're retained between sessions.
+
+**Important:** Don't delete this file if you want to keep your saved settings. If you do delete it, PlunderSkip will simply create a new one, but your previous preferences will be lost.
+
+You don't need to create or edit this file yourself. It is generated automatically when needed.
+
 ## Installation
 
 Setting up PlunderSkip is a one-time process. If you haven't used Python before, don't worry - just follow the steps below.
