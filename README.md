@@ -114,6 +114,22 @@ PlunderSkip should now launch and be ready to use.
 - **Interface:** Tkinter
 - **Licence:** MIT
 
+## A few personal notes
+
+PlunderSkip is a little tool I mainly built for myself, out of sheer frustration. It also turned out to be a fun way to spend a couple of days exploring what AI could help me achieve, using ChatGPT's free mode credits wisely and patiently waiting through the occasional 24-hour cooldown for another batch. 😄
+
+I haven't spent time optimising the code because, quite frankly, it works as intended. I'm not trying to squeeze every last byte out of it or win any coding competitions. That's something I'd probably be more inclined to do if I were still coding on my C64!
+
+Whether you like AI or hate it, I honestly don't mind either way. For me, this was simply a fun little project and an opportunity to better understand how AI can add value by helping solve a real-world annoyance. I'm happy with the result, so I decided to share it with anyone else who might find it useful. I don't intend to actively promote it beyond mentioning it once on Reddit.
+
+And if anyone involved with DLPS happens to be reading this, I genuinely appreciate the work you've put into the site, and I hope you take no offence at me releasing this little utility.
+
+As a user, it's frustrating to browse through older pages, encounter dead links and then see countless Reddit posts along the lines of "it doesn't work". At the same time, I completely understand that nobody in their right mind would want to manually revisit thousands of old pages just to update outdated links. This little project felt like a reasonable workaround — a bit of a band-aid, perhaps, but surely better than being another person moaning about dead links on Reddit.
+
+I'm also not planning to update PlunderSkip if the way links are presented or accessed on DLPS changes in the future. It was built around the older page structures, and that's where it'll stay.
+
+And on a final note, after all the testing I've done, I've probably clicked through more banners and seen more sponsor pages and adverts than I ever cared to. So at least I've done my share! 😂
+
 ## Disclaimer
 
 Dead Link Plunder Skip (PlunderSkip) is provided for informational and personal utility purposes only.
