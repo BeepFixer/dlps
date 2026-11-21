@@ -105,7 +105,7 @@ Press Enter and let the installation finish. You only need to do this once. Once
 
 ### 4. Launch PlunderSkip
 
-Locate the `PlunderSkip.py` file you downloaded and **double-click it**. PlunderSkip should launch in its own application window.
+Locate the `dead_link_plunder_skip_v01.00.py` file you downloaded and **double-click it**. PlunderSkip should launch in its own application window.
 
 **Note:** Depending on your Python installation and Windows settings, a Command Prompt window may also appear alongside PlunderSkip while the application is running. This is normal and can simply be left open.
 
