@@ -22,6 +22,8 @@ Encountering these dead ends over and over again can get frustrating pretty quic
 
 Who knows - perhaps I've just been playing too much Uncharted and started seeing the whole thing as a puzzle challenge. Either way, creating a little vibe-coded pirate utility to extract those links turned out to be a lot more fun than endlessly chasing them manually. 😉
 
+![DLPS – Dead Link Plunder Skip](images/dlps-v01.jpg)
+
 ## What does PlunderSkip do?
 
 PlunderSkip is a lightweight Python desktop utility that acts as a little helper tool while browsing DLPS.
@@ -111,6 +113,18 @@ PlunderSkip should now launch and be ready to use.
 - **Language:** Python
 - **Interface:** Tkinter
 - **Licence:** MIT
+
+## Disclaimer
+
+Dead Link Plunder Skip (PlunderSkip) is provided for informational and personal utility purposes only.
+
+PlunderSkip simply extracts and organises URLs found on webpages. It does not host, store, provide or distribute any files, nor does it bypass access restrictions, remove sponsor pages or guarantee that extracted links are safe, legal or functional.
+
+Users are solely responsible for how they use PlunderSkip and for ensuring that their activities comply with applicable laws, copyright requirements and the terms of service of any websites or services they access.
+
+BeepFixer does not endorse or encourage copyright infringement, unauthorised distribution of copyrighted material or any other unlawful activity.
+
+The software is provided "as is", without warranties of any kind. See the accompanying MIT licence for the full warranty and liability disclaimer.
 
 ---
 
